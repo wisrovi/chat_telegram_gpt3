@@ -1,1 +1,2 @@
-# chat_telegram_gpt3
+# gpt3-jabebot
+ Chatbot app
