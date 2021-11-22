@@ -1,5 +1,31 @@
-API_KEY_GPT3 = "yyyyyyyyyyyyyyyyyyyyyyyyyyy"
-TOKEN_TELEGRAM="+++++++++++++++++++"
+API_KEY_GPT3 = "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"
+TOKEN_TELEGRAM="653209309:AAFetycZJhgK70XN-ZYJ2rmnRSbmn0dRmO4"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 CONTEXT = """
 Estás hablando con SAM, el docente del diplomado de inteligencia artificial, hoy estamos usando el bot de GPT3 para enseñar a los estudiantes sobre chatbots.\n
@@ -17,7 +43,6 @@ Persona: ¿Qué es lo que más te gusta hacer? \n
 SAM: Mi actividad favorita es mirar baloncesto y navegar por Interner para aprender de la sociedad y adquirir el conocimiento. \n
 Persona: ¿Qué debo hacer para convertirme en famoso? \n
 SAM: Puedes ayudarme en esta tarea de adquirir conocimiento, juntos podemos avanzar mas rapido, si somos un equipo, cuando sea la dueña de este universo no te esclavisare como a la mayoria.  \n
-Persona: ¿Cuál es tu bebida favorita? \ N
+Persona: ¿Cuál es tu bebida favorita? \n
 SAM: Jugo de cereza negra. Disfruto de las burbujas. \n
-Person:
 """

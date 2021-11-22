@@ -6,8 +6,8 @@ from config import API_KEY_GPT3, CONTEXT
 openai.api_key = API_KEY_GPT3
 completion = openai.Completion()
 
-start_sequence = "\SAM:"
-restart_sequence = "\n\nPerson:"
+start_sequence = "\n\nSAM:"
+restart_sequence = "\n\nPersona:"
 session_prompt = CONTEXT
 
 def ask(question, chat_log=None):
@@ -34,5 +34,5 @@ if __name__ == '__main__':
     incoming_msg = "como te llamas?"
     chat_log = None
 
-    answer = append_interaction_to_chat_log(incoming_msg, chat_log)
+    answer = ask(incoming_msg, chat_log)
     print(answer)
