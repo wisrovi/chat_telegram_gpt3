@@ -1,5 +1,5 @@
-API_KEY_GPT3 = "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"
-TOKEN_TELEGRAM="653209309:AAFetycZJhgK70XN-ZYJ2rmnRSbmn0dRmO4"
+API_KEY_GPT3 = "************************"
+TOKEN_TELEGRAM="**************************"
 
 
 
